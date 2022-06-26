@@ -21,6 +21,11 @@ body {
     gap: 16px;
 }
 
+.navbar p,
+.navbar ul {
+    margin-bottom: 0;
+}
+
 .navbar p {
     margin-right: auto;
     font-size: 24px;
