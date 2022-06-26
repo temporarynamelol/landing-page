@@ -67,10 +67,16 @@ body {
 }
 
 .hero-pic img{
-    width: 400px;
-    height: auto;
+    width: 600px;
+    height: 300px;
 }
 
 .hero-main button {
     background-color: #3882F6;
-}
+    border: none;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    border-radius: 12px;
+  }
