@@ -1,8 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    padding-left: 250px;
-    padding-right: 250px;
+
 }
 
 .hero {
@@ -11,6 +10,8 @@ body {
     gap: 42px;
     flex-wrap: wrap;
     background-color: #1F2937;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 
 .navbar,
