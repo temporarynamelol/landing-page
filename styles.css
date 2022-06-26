@@ -12,11 +12,6 @@ body {
     flex-wrap: wrap;
 }
 
-.hero-pic img{
-     width: 400px;
-     height: auto;
-}
-
 .navbar,
 .navbar ul {
     display: flex;
@@ -33,4 +28,14 @@ body {
     display: flex;
     gap: 42px;
     margin: 0;
+}
+
+.main-text  h1{
+    padding: 0;
+    margin: 0;
+}
+
+.hero-pic img{
+    width: 400px;
+    height: auto;
 }
