@@ -8,3 +8,8 @@ body {
     justify-content: center;
     gap: 42px;
 }
+
+.hero-pic img{
+     width: 400px;
+     height: auto;
+}
