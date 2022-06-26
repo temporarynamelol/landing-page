@@ -25,6 +25,7 @@ body {
 .navbar p,
 .navbar ul {
     margin-bottom: 0;
+    margin-top: 18px;
 }
 
 .navbar ul a {
