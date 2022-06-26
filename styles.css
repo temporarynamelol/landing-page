@@ -13,3 +13,11 @@ body {
      width: 400px;
      height: auto;
 }
+
+.navbar,
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 16px;
+    padding-bottom: 50px;
+}
