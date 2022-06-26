@@ -3,7 +3,7 @@ body {
     flex-direction: column;
 }
 
-.navbar {
+.hero {
     display: flex;
     justify-content: center;
     gap: 42px;
