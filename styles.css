@@ -25,3 +25,9 @@ body {
 .navbar p {
     margin-right: auto;
 }
+
+.hero-main {
+    display: flex;
+    gap: 42px;
+    margin: 0;
+}
