@@ -32,7 +32,8 @@ body {
 }
 
 .navbar ul a,
-.hero-main p {
+.hero-main p,
+.hero-main button {
     font-size: 18px;
     color: #E5E7EB;
 } 
@@ -68,4 +69,8 @@ body {
 .hero-pic img{
     width: 400px;
     height: auto;
+}
+
+.hero-main button {
+    background-color: #3882F6;
 }
