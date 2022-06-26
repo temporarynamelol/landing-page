@@ -2,3 +2,9 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 42px;
+}
