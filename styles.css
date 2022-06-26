@@ -27,6 +27,16 @@ body {
     margin-bottom: 0;
 }
 
+.navbar ul a {
+    text-decoration: none;
+}
+
+.navbar ul a,
+.hero-main p {
+    font-size: 18px;
+    color: #E5E7EB;
+} 
+
 .navbar p {
     margin-right: auto;
     font-size: 24px;
