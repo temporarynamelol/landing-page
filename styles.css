@@ -1,12 +1,15 @@
 body {
     display: flex;
     flex-direction: column;
+    padding-left: 250px;
+    padding-right: 250px;
 }
 
 .hero {
     display: flex;
     justify-content: center;
     gap: 42px;
+    flex-wrap: wrap;
 }
 
 .hero-pic img{
