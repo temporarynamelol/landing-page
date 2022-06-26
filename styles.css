@@ -40,6 +40,11 @@ body {
     margin: 0;
 }
 
+.main-text h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
 .hero-pic img{
     width: 400px;
     height: auto;
