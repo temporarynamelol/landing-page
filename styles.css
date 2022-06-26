@@ -22,6 +22,9 @@ body {
 
 .navbar p {
     margin-right: auto;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
 }
 
 .hero-main {
