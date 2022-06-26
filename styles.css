@@ -25,7 +25,6 @@ body {
 .navbar p {
     margin-right: auto;
     font-size: 24px;
-    color: #F9FAF8;
     font-weight: bold;
 }
 
@@ -43,6 +42,11 @@ body {
 .main-text h1 {
     font-size: 48px;
     font-weight: bolder;
+}
+
+.navbar p,
+.main-text h1 {
+    color: #F9FAF8;
 }
 
 .hero-pic img{
