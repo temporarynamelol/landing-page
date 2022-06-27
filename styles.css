@@ -99,3 +99,9 @@ footer {
 
 /*Box 1 start */
 
+.info-pic img{
+    height: 250px;
+    width: auto;
+}
+
+/*Box 1 end */
