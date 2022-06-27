@@ -46,7 +46,8 @@ footer {
 .navbar ul a,
 .hero-main p,
 .hero-main button,
-.sign-up {
+.sign-up,
+.right button {
     font-size: 18px;
     color: #E5E7EB;
     font-weight: 500;
@@ -89,14 +90,19 @@ footer {
     height: 250px;
 }
 
-.hero-main button {
+/* Button from hero and box-3 share all properties exept border */
+.hero-main button,
+.right button {
     background-color: #3882F6;
-    border: none;
     padding: 8px 32px 8px 32px;
     text-align: center;
     text-decoration: none;
     margin: 4px 2px;
     border-radius: 12px;
+  }
+
+  .hero-main button {
+    border: none;
   }
 
 /* Hero area end */
