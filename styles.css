@@ -79,7 +79,8 @@ footer {
 /*Added call-to to this as it shares same colour */
 .navbar p,
 .main-text h1,
-.call-to {
+.call-to,
+.footer p {
     color: #F9FAF8;
 }
 
@@ -205,3 +206,10 @@ footer {
 
 /* Box 3 end */
 /* Footer start */
+
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    font-size: 18px;
+    font-weight: 400;
+}
