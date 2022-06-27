@@ -167,3 +167,10 @@ footer {
     align-items: center;
     justify-content: center;
 }
+
+.blue-box {
+    background-color: #3882F6;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    padding: 42px 58px 42px 58px;
+}
