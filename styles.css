@@ -193,3 +193,8 @@ footer {
     font-weight: bold;
     font-size: 24px;
 }
+
+.right button {
+    border-color: #F9FAF8;
+    border-style: solid;
+}
