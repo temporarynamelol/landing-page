@@ -42,12 +42,11 @@ footer {
     text-decoration: none;
 }
 
-/*Added .sign-up from box-3 to this as it shares properties */
 .navbar ul a,
 .hero-main p,
 .hero-main button,
-.sign-up,
-.right button {
+.sign-up
+{
     font-size: 18px;
     color: #E5E7EB;
     font-weight: 500;
@@ -94,7 +93,7 @@ footer {
 .hero-main button,
 .right button {
     background-color: #3882F6;
-    padding: 8px 32px 8px 32px;
+    padding: 7px 36px 7px 36px;
     text-align: center;
     text-decoration: none;
     margin: 4px 2px;
@@ -197,4 +196,7 @@ footer {
 .right button {
     border-color: #F9FAF8;
     border-style: solid;
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: 500;
 }
