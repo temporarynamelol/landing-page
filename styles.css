@@ -103,9 +103,21 @@ footer {
     text-align: center;
 }
 
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+
+
 .info-pic img{
     height: 250px;
     width: auto;
+    border: #3882F6;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 12px;
 }
 
 /*Box 1 end */
