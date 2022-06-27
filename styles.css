@@ -136,6 +136,8 @@ footer {
 
 .box-2 {
     background-color: #E5E7EB;
+    padding-top: 130px;
+    padding-bottom: 130px;
 }
 
 .author {
@@ -152,3 +154,5 @@ footer {
     padding-bottom: 24px;
     color: #1F2937;
 }
+
+/* Box 2 end */
