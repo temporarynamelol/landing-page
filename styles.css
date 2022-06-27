@@ -160,3 +160,10 @@ footer {
 }
 
 /* Box 2 end */
+/* Box 3 start */
+
+.box-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
