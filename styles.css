@@ -172,5 +172,8 @@ footer {
     background-color: #3882F6;
     margin-top: 130px;
     margin-bottom: 130px;
-    padding: 42px 58px 42px 58px;
+    padding: 60px 100px 60px 100px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
 }
