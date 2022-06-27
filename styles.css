@@ -134,3 +134,7 @@ footer {
 
 /*Box 2 start */
 
+.author {
+    display: flex;
+    justify-content: flex-end;
+}
