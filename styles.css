@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
 }
 
 /* This padding applies the all main containers on the page, add any further containers as needed */
