@@ -44,7 +44,6 @@ footer {
 
 .navbar ul a,
 .hero-main p,
-.hero-main button,
 .sign-up
 {
     font-size: 18px;
@@ -97,11 +96,14 @@ footer {
     text-align: center;
     text-decoration: none;
     margin: 4px 2px;
-    border-radius: 12px;
+    border-radius: 10px;
   }
 
   .hero-main button {
     border: none;
+    font-size: 18px;
+    color: #F9FAF8;
+    font-weight: 500;
   }
 
 /* Hero area end */
