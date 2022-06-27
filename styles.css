@@ -125,8 +125,8 @@ footer {
 
 .info-container {
     display: flex;
-    justify-content: center;
-    gap: 52px;
+    justify-content: space-between;
+
 }
 
 .info-pic {
@@ -135,12 +135,16 @@ footer {
 
 .info-pic img{
     height: 250px;
-    width: auto;
+    width: 175x;
     border: #3882F6;
     border-style: solid;
     border-width: 4px;
     border-radius: 12px;
     margin-bottom: 8px;
+}
+
+.info-text {
+    width: 175px;
 }
 
 /*Box 1 end */
@@ -215,3 +219,5 @@ footer {
     font-weight: 400;
     padding: 8px;
 }
+
+/* footer end */
