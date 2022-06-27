@@ -145,4 +145,6 @@ footer {
     font-size: 32px;
     font-weight: 300;
     font-style: italic;
+    padding-bottom: 24px;
+    color: #1F2937;
 }
