@@ -152,6 +152,10 @@ footer {
     font-weight: 300;
     font-style: italic;
     padding-bottom: 24px;
+}
+
+.main-qoute,
+.author {
     color: #1F2937;
 }
 
