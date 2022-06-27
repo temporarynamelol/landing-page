@@ -4,14 +4,24 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+/* This padding applies the all main containers on the page, add any further containers as needed */
+.hero,
+.box-1,
+.box-2,
+.box-3,
+footer {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+/* Hero area start */
+
 .hero {
     display: flex;
     justify-content: center;
     gap: 42px;
     flex-wrap: wrap;
     background-color: #1F2937;
-    padding-left: 200px;
-    padding-right: 200px;
 }
 
 .navbar,
@@ -84,4 +94,8 @@ body {
     margin: 4px 2px;
     border-radius: 12px;
   }
+
+/* Hero area end */
+
+/*Box 1 start */
 
